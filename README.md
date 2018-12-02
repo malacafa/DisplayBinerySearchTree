@@ -2,12 +2,19 @@
 
 display the shape of the BST.
 menu are written in korean so
+
 [1]display the nodes inside the tree
+
 [2]display the structure of the tree
+
 [3]insert number
+
 [4]delete the number
+
 [5]find the number
+
 [6]delete all
+
 [7]exit
 
 use this readme to run the program.
