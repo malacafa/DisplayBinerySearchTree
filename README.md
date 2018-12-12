@@ -1,7 +1,7 @@
 # DisplayBinerySearchTree
 
 display the shape of the BST.
-menu are written in korean so
+The menus are written by korean so...
 
 [1]display the nodes inside the tree
 
